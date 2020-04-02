@@ -1,5 +1,5 @@
 # Note of CS231n
-@Author by AnhangZhang
+@Author AnhangZhang
 =================
 
 ## Class1
